@@ -207,6 +207,11 @@ main section > h2 {
 	text-decoration: none;
 	color: inherit;
 }
+#products .grid-container .box-product .box-desc {
+	line-height: 1.2;
+	font-size: 0.8rem;
+	margin-bottom: 1rem;
+}
 #products .grid-container .box-product .tags {
 	list-style: none;
 	display: flex;
