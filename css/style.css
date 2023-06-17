@@ -175,6 +175,7 @@ main section > h2 {
 	justify-content: center;
 	flex-direction: column;
 	gap: 1rem;
+	flex-wrap: wrap;
 }
 #products .grid-container .box-product {
 	width: 90%;
@@ -263,6 +264,7 @@ footer address {
 
 	#products .grid-container .box-product {
 		max-width: 35rem;
+		width: 100%;
 	}
 	.help {
 		font-size: 1rem;
